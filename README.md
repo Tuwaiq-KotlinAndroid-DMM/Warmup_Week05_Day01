@@ -7,4 +7,4 @@
 ## you will work with a starter app called Inventory app, and add the database layer to it using the Room library. The final version of the app displays a list items from the inventory database using a `RecyclerView`. The user will have options to add a new item, update an existing item, and delete an item from the inventory database.
 ## Below are screenshots from the final version of the app.
 
-<img src="screenshot.png" alt="drawing" width="600"/>
+<img src="screenshot.png" alt="drawing" width="800"/>
