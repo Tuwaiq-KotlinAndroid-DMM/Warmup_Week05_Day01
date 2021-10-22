@@ -1,4 +1,4 @@
-# Warmup_Week04_Day04 🔥
+# Warmup_Week05_Day01 🔥
 ---
 # Inventory App
 ## What you'll build
